@@ -1,0 +1,26 @@
+_repo: Footprints-of-Abraham-Lincoln-Presenting-many-interesting-facts-reminiscences-and-illustratio__53822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hobson, J. T. (Jonathan Todd)
+    alias: Hobson, Jonathan Todd
+    birthdate: 1850
+    gutenberg_agent_id: '47557'
+    url: http://www.gutenberg.org/2009/agents/47557
+description: ''
+gutenberg_issued: '2016-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53822'
+  lccn: 09011681
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Anecdotes'
+- !lcc 'E456'
+- GITenberg
+title: "Footprints of Abraham Lincoln\r\nPresenting many interesting facts, reminiscences\
+  \ and illustrations never before published"
+url: http://www.gutenberg.org/ebooks/53822
